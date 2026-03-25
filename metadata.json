@@ -1,0 +1,8 @@
+{
+  "name": "Kami Notebook",
+  "description": "A 3D interactive leather notebook for digital journaling.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
